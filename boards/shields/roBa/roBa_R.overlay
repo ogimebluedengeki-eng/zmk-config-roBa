@@ -64,12 +64,16 @@
 
 &zip_temp_layer {
     excluded-positions = <
-        6   // U: ペースト
         8   // O: コピー
+        10  // A
         18  // J
         19  // K
         20  // L
         30  // M
+        31  // ,
         32  // .
+        33  // /
+        40  // bs
+        41  // ent
     >;
 };
